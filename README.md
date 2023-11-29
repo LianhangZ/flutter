@@ -10,4 +10,5 @@
 
 `void main() => runApp();`
 
-`flutter devices` 列出所有连接设备
+- `flutter devices` 列出所有连接设备
+- `flutter emulators` 列出，启动，创建模拟器
